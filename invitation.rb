@@ -1,4 +1,4 @@
-def HarryPotter
+def Harry_Potter
  puts "Hi, you've been invited to a party! What is your name?"
  name = gets.chomp
  puts "What is the name of the party you are attending?"
@@ -17,4 +17,4 @@ def HarryPotter
    #{host_name}"
 end 
  
-HarryPotter 
+Harry_Potter 
