@@ -19,4 +19,4 @@ def invitation_party
    #{host_name}"
 end 
  
-invitation_party
+puts invitation_party
