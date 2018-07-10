@@ -11,8 +11,10 @@ def invitation_party
  host_name = gets.chomp
 
  puts "Dear #{name},
+  
    You are cordially invited to the #{party_name} on #{day} at #{time}.
    Please RSVP no later than October 30.
+  
    Sincerely,
    #{host_name}"
 end 
