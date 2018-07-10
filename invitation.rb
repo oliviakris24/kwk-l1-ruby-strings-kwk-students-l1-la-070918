@@ -1,5 +1,5 @@
 def HarryPotter
- puts "Hi you've been invited to a party! What is your name?"
+ puts "Hi, you've been invited to a party! What is your name?"
  name = gets.chomp
  puts "What is the name of the party you are attending?"
  party_name = gets.chomp
